@@ -27,6 +27,7 @@ The user can now use their credentials to log in:
 
 <img width="385" alt="Image" src="https://github.com/user-attachments/assets/6bfe289b-e901-4e14-bc4e-81018c5216b3" />
 
+If they enter their credentials correctly, they will see a successful login window:
 
 <img width="251" alt="Image" src="https://github.com/user-attachments/assets/af12cfb3-d93f-401b-b0dc-e39a3db16168" />
 
