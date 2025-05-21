@@ -2,10 +2,13 @@
 This username/password login verification checks credentials against an SQLite database and uses scrypt to secure passwords and salts.
 
 Starting the program should prompt this login window:
+
 <img width="386" alt="Image" src="https://github.com/user-attachments/assets/a8869883-411f-4843-91e9-cbea936f6621" />
 
+If the user attempts to login without first creating an account, they will see a failed login window:
 
 <img width="253" alt="Image" src="https://github.com/user-attachments/assets/5e4fe8a6-227f-4055-aedf-b56b7d79e234" />
+
 
 <img width="385" alt="Image" src="https://github.com/user-attachments/assets/6bfe289b-e901-4e14-bc4e-81018c5216b3" />
 
