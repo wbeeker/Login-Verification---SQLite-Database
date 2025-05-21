@@ -36,10 +36,10 @@ Their credentials will be stored in an SQLite3 database, with passwords and salt
 ![Image](https://github.com/user-attachments/assets/c5b814c5-b70e-4f8b-838e-84e24f2d03af)
 ![Image](https://github.com/user-attachments/assets/49c59234-f60c-47ff-8e18-5b2635c72a92)
 
-Here is the full 32-digit hashed salt:
+Here is the full 128-digit hashed password:
 
 ![Image](https://github.com/user-attachments/assets/c212c421-dfff-44bd-b397-497ca166eb47)
 
-And here is the full 128-digit hashed password:
+And here is the full 32-digit hashed salt:
 
 ![Image](https://github.com/user-attachments/assets/52aa2256-781a-4817-8d77-efebd0526d29)
