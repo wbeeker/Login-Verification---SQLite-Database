@@ -7,8 +7,6 @@ This username/password login verification checks credentials against an SQLite d
 
 <img width="385" alt="Image" src="https://github.com/user-attachments/assets/6bfe289b-e901-4e14-bc4e-81018c5216b3" />
 
-<img width="360" alt="Image" src="https://github.com/user-attachments/assets/0f107e57-ffe5-40b3-9bed-961576c927e5" />
-
 <img width="396" alt="Image" src="https://github.com/user-attachments/assets/ff9afb8d-9c15-4d3a-a441-6379db3b1445" />
 
 <img width="398" alt="Image" src="https://github.com/user-attachments/assets/f898bfcd-0120-4e79-b0f7-902d61196ab5" />
