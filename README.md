@@ -31,10 +31,15 @@ If they enter their credentials correctly, they will see a successful login wind
 
 <img width="251" alt="Image" src="https://github.com/user-attachments/assets/af12cfb3-d93f-401b-b0dc-e39a3db16168" />
 
-![Image](https://github.com/user-attachments/assets/49c59234-f60c-47ff-8e18-5b2635c72a92)
+Their credentials will be stored in an SQLite3 database, with passwords and salt hashed with scrypt:
 
 ![Image](https://github.com/user-attachments/assets/c5b814c5-b70e-4f8b-838e-84e24f2d03af)
+![Image](https://github.com/user-attachments/assets/49c59234-f60c-47ff-8e18-5b2635c72a92)
+
+Here is the full 32-digit hashed salt:
 
 ![Image](https://github.com/user-attachments/assets/c212c421-dfff-44bd-b397-497ca166eb47)
+
+And here is the full 128-digit hashed password:
 
 ![Image](https://github.com/user-attachments/assets/52aa2256-781a-4817-8d77-efebd0526d29)
