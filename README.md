@@ -19,7 +19,14 @@ The user can select Creat Account and fill in the boxes below:
 
 <img width="398" alt="Image" src="https://github.com/user-attachments/assets/f898bfcd-0120-4e79-b0f7-902d61196ab5" />
 
+If the account is created successfully, the user will see this window:
+
 <img width="254" alt="Image" src="https://github.com/user-attachments/assets/2861fea0-c47e-4d9c-b4ec-3bf781c19e3b" />
+
+The user can now use their credentials to log in:
+
+<img width="385" alt="Image" src="https://github.com/user-attachments/assets/6bfe289b-e901-4e14-bc4e-81018c5216b3" />
+
 
 <img width="251" alt="Image" src="https://github.com/user-attachments/assets/af12cfb3-d93f-401b-b0dc-e39a3db16168" />
 
