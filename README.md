@@ -1,7 +1,9 @@
 # Login-Verification---SQLite-Database
 This username/password login verification checks credentials against an SQLite database and uses scrypt to secure passwords and salts.
 
+Starting the program should prompt this login window:
 <img width="386" alt="Image" src="https://github.com/user-attachments/assets/a8869883-411f-4843-91e9-cbea936f6621" />
+
 
 <img width="253" alt="Image" src="https://github.com/user-attachments/assets/5e4fe8a6-227f-4055-aedf-b56b7d79e234" />
 
