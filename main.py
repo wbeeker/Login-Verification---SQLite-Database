@@ -49,15 +49,23 @@ def hashing_function(password, salt=None):
 
 
 def login_verification(username, password):
-    con = sqlite3.connect("userdata.db")
+    try:
+        con = sqlite3.connect("userdata.db")
+    except:
+        print("Database doesn't exist. Create account first.")
 
     cur = con.cursor()
+
+    cur.execute('''CREATE TABLE IF NOT EXISTS userdata(First_Name, Last_Name, Age, Email, Username, Password, Salt)''')
 
     query = """SELECT password, salt FROM userdata WHERE username = ?"""
 
     cur.execute(query, (username,))
 
-    db_password, db_salt = cur.fetchone()
+    try:
+        db_password, db_salt = cur.fetchone()
+    except:
+        return False
 
     entry_password, stored_salt = hashing_function(password, db_salt)
 
