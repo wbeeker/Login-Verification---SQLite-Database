@@ -13,7 +13,7 @@ The user will see a failed login window:
 
 <img width="253" alt="Image" src="https://github.com/user-attachments/assets/5e4fe8a6-227f-4055-aedf-b56b7d79e234" />
 
-
+The user can select Creat Account and fill in the boxes below:
 
 <img width="396" alt="Image" src="https://github.com/user-attachments/assets/ff9afb8d-9c15-4d3a-a441-6379db3b1445" />
 
